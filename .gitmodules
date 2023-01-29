@@ -1,0 +1,3 @@
+[submodule "software/api-crud-requesthandler"]
+	path = software/api-crud-requesthandler
+	url = git@github.com:alaanescobedo/aws-basic-api-crud.git
